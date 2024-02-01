@@ -1,7 +1,7 @@
 # nodeMongo
 
 Olá! 👋🏼 tudo bem?
-Projeto criado com o intuito de conhecer ainda mais o Mongo junto com o Node.
+Projeto criado com o intuito de conhecer ainda mais o Mongo junto com o NodeJs! 
 Fiz uma especie de e-commerce bem simples, apenas com a route de criar, ver detalhes, editar e excluir produtos.
 
 Arquitetura MVC.
